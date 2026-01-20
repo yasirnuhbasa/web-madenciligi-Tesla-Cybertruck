@@ -1,4 +1,5 @@
 # 📊 Tesla Cybertruck Lansmanı: Pazar Atmosferi ve Tüketici Duygu Analizi
+# Rıdvan Yasir Nuhbaşa - 132230033
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Data Mining](https://img.shields.io/badge/Data%20Mining-YouTube%20Data%20API%20v3-red.svg)](https://developers.google.com/youtube/v3)
